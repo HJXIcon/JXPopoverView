@@ -5,7 +5,7 @@
 
 ### 效果图
 
-![image]()
+![image](https://github.com/HJXIcon/JXPopoverView/blob/master/JXPopoverView/JXPopoverView.gif)
 
 
 ### 使用
